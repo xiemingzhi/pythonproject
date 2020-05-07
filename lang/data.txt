@@ -1,4 +1,4 @@
-User ID	Purchase ID	Purchase datetime
+Shopper ID	Purchase ID	Purchase datetime
 treva	664853	2016-01-01 19:25:52
 treva	480974	2016-01-03 17:43:09
 treva	984430	2016-01-04 17:54:02
