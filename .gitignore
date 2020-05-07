@@ -1,4 +1,8 @@
 /.idea/
-/.vscode/settings.json
-/scripts/config.pyc
-/scripts/initialize.pyc
+/devops/aws-tools/
+/devops/fuhu-saltstack/
+/devops/sensu/
+/devops/sys-config/
+/devops/sys-utils/
+scripts/config.pyc
+scripts/initialize.pyc

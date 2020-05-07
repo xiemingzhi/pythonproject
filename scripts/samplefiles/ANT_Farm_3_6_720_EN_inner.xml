@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" ?>
+<content>
+	<metadata>
+		<video>
+			<externalID>10001666</externalID>
+			<provider>Disney Channel</provider>
+			<mediaType>TV</mediaType>
+			<title>angus' first movemANT</title>
+			<description>Zoltan asks Angus to write a jingle for the new Z-phone commercial.</description>
+			<season>
+				<seriesTitle>A.N.T. Farm</seriesTitle>
+				<seriesDescription/>
+				<studio>Disney Enterprises, Inc.</studio>
+				<seasonNumber>3</seasonNumber>
+				<seasonDescription>The ANTs are heading to boarding school! Chyna, Olive, Fletcher, Angus, and Lexi are accepted into the exclusive and prestigious Grundy Academy developed by billionaire and former child prodigy, Zoltan Grundy. In an environment without rules, Olive makes up a set of laws of her own, the girls become smitten with a chess prodigy, and Angus is asked to write a new jingle for a commercial.</seasonDescription>
+				<totalEpisode>17</totalEpisode>
+				<currentEpisode>6</currentEpisode>
+			</season>
+			<rating>G</rating>
+			<genre>Comedy</genre>
+			<startDate>2015-07-15</startDate>
+			<endDate>2015-08-14</endDate>
+			<releaseDate/>
+			<duration>00:23:39</duration>
+			<language>
+				<original>EN</original>
+				<additional/>
+			</language>
+			<format>HD</format>
+			<hashCode>1fc65dcb1d3cf985b7eab47c16231e8d</hashCode>
+			<copyright>Disney Enterprises, Inc.</copyright>
+			<keywords>a.n.t.,ant,farm,disney,channel,china,anne,mcclain,chyna,parks,sierra,mccormick,olive,jake,short,stefanie,scott</keywords>
+			<actor>Carlon Jeffery,China Anne McClain,Sierra McCormick,Stefanie Scott,Jake Short</actor>
+			<character>Cameron Parks,Chyna Parks,Olive Doyle,Lexi Reed,Fletcher Quimby</character>
+			<director/>
+			<producer/>
+		</video>
+	</metadata>
+	<files>
+		<videos>
+			<video>
+				<fileName>ANT_Farm_3_6_720_EN.mp4</fileName>
+				<bctitle>angus' first movemANT</bctitle>
+				<refid>1dbbfb00-ae09-4a4e-87ca-503acb76d31b</refid>
+			</video>
+		</videos>
+		<trailers>
+			<trailer>
+				<fileName>ANT_Farm_3_6_720_EN_trailer.mp4</fileName>
+				<trailerStartTime>360</trailerStartTime>
+				<trailerEndTime>390</trailerEndTime>
+				<bctitle>ANT_Farm_3_6_720_EN_trailer</bctitle>
+				<refid>c8228367-e747-4558-bf48-62942142dee0</refid>
+				<trailerDuration>00:00:30</trailerDuration>
+			</trailer>
+		</trailers>
+		<captions>
+			<caption>
+				<fileName>ANT_Farm_3_6_cc_EN.vtt</fileName>
+			</caption>
+		</captions>
+		<images>
+			<image>
+				<imageType>Album Banner</imageType>
+				<size>546x546</size>
+				<fileName>ANT_Farm_3_album_banner_file1.png</fileName>
+			</image>
+			<image>
+				<imageType>Preview Screenshot</imageType>
+				<size>730x412</size>
+				<fileName>ANT_Farm_3_6_preview_screenshot_file1.png</fileName>
+			</image>
+			<image>
+				<imageType>Category Banner</imageType>
+				<size>1166x656</size>
+				<fileName>ANT_Farm_3_category_banner_file1.png</fileName>
+			</image>
+			<image>
+				<imageType>Featured Banner nabiPass</imageType>
+				<size>1166x656</size>
+				<fileName>ANT_Farm_3_featured_banner_nabiPass_file1.png</fileName>
+			</image>
+			<image>
+				<imageType>Trailer Thumbnail</imageType>
+				<size>1280x720</size>
+				<fileName>ANT_Farm_3_6_720_EN_trailer_trailer_thumbnail.png</fileName>
+			</image>
+		</images>
+	</files>
+</content>
