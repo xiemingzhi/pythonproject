@@ -34,4 +34,13 @@ conda env update -f environment.yml
 
 python filename.py
 
+## vscode
+
+Install microsoft python extension
+```
+select python interpreter (use pythonproject conda environment)
+select windows command prompt for terminal
+select py file 
+ctrl+shift+p select 'Run Pythin File in Terminal' command
+```
 
