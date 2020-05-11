@@ -15,6 +15,21 @@ conda env create -f environment.yml
 conda activate pythonproject
 ```
 
+Add packages 
+```
+conda install modulename
+```
+
+Export environment
+```
+conda env export -f environment.yml
+```
+
+Update environment
+```
+conda env update -f environment.yml
+```
+
 **To Run**
 
 python filename.py
