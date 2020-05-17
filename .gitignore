@@ -8,3 +8,4 @@ scripts/config.pyc
 scripts/initialize.pyc
 .vscode/settings.json
 /aws/__pycache__/
+*.pyc
