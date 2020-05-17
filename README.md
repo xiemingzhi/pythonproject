@@ -18,6 +18,7 @@ conda activate pythonproject
 Add packages 
 ```
 conda install modulename
+conda install sortedcontainers
 ```
 
 Export environment
