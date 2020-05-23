@@ -15,12 +15,14 @@ class LinkedList:
             self.count += 1
 
     # creating a iterator in python
+    # An iterable is any object in Python which has an __iter__ or a __getitem__ method defined which returns an iterator or can take indexes
     def __iter__(self):
         self.nextIndex = self.node
         self.totalCount = self.count
         self.iterationCount = 0
         return self
 
+    # An iterator is any object in Python which has a next (Python2) or __next__ method defined.
     def __next__(self):
         if (self.iterationCount < self.totalCount):
             result = self.nextIndex
