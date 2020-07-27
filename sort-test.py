@@ -43,3 +43,41 @@ def isort(inputArr):
 a = [3, 2, 1, 1, 2, 3, 4, 5]
 isort(a)
 print('insertsort',a)
+
+
+# i < mid < j
+# take a number in the middle 
+# i index on the left
+# j index from the right
+# while val[i] is less than the mid increment i continue ; //find the location to swap
+# while val[j] is greater than the mid decrement j continue; //find the location to swap
+# if we find that i is greater or equal to j then break //reached the end 
+# else swap number at j with number at i
+# recursive call for the left
+# recursive call for the right
+# worst O(n2)
+# avg O(n log(n))
+def qsort(inputArr, left, right):
+    if left < right:
+        mindex = (left + right) // 2 #Integer division	22 // 8 = 2
+        mid = inputArr[mindex]
+        i = left - 1
+        j = right + 1
+        while True:
+            i += 1
+            while inputArr[i] < mid:
+                i += 1
+            j -= 1    
+            while inputArr[j] > mid:
+                j -= 1
+            if i >= j:
+                break
+            else:
+                swap(inputArr, i, j)
+        qsort(inputArr, left, i - 1)
+        qsort(inputArr, j + 1, right)
+        
+a = [3, 2, 1, 1, 2, 3, 4, 5]
+qsort(a, 0, len(a)-1)
+print('quicksort',a)
+
