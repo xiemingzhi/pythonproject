@@ -2,8 +2,8 @@
 certifi==2023.7.22
 cffi==1.14.0
 chardet==3.0.4
-cryptography==42.0.2
-idna==2.9
+cryptography==3.3.2
+idna==3.7
 mysql-connector-python==8.0.18
 protobuf==3.18.3
 pycparser==2.20
