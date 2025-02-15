@@ -1,5 +1,5 @@
 ﻿boto==2.49.0
-certifi==2022.12.7
+certifi==2023.7.22
 cffi==1.14.0
 chardet==3.0.4
 cryptography==3.3.2
@@ -9,7 +9,7 @@ protobuf==3.18.3
 pycparser==2.20
 pyOpenSSL==19.1.0
 PySocks==1.7.1
-requests==2.23.0
+requests==2.31.0
 six==1.14.0
 urllib3==1.26.18
 win-inet-pton==1.1.0
